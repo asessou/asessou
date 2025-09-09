@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/amavisessou/">Amavi Sessou</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/amavisessou/">Amavi Sessou</a>'s Red Hat Linux System Administrator, IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects enable me to delve deeply into the ever-evolving landscape of cybersecurity. Please feel free to review them and see the work I’ve put into enhancing security operations and processes.
 
