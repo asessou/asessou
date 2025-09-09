@@ -1,6 +1,16 @@
 # <a href="https://www.linkedin.com/in/amavisessou/">Amavi Sessou</a>'s Red Hat Linux System Administrator, IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects enable me to delve deeply into the ever-evolving landscape of cybersecurity. Please feel free to review them and see the work I’ve put into enhancing security operations and processes.
+I am a Red Hat Linux Administrator with strong experience in system provisioning, performance tuning, patch management, and securing RHEL-based infrastructure.  
+My work bridges Linux system administration and cybersecurity, where I focus on building secure, efficient, and scalable systems.
+
+Here you’ll find hands-on projects showcasing:
+- 🔐 Vulnerability management & system hardening  
+- 🛡️ Threat detection & response automation  
+- ⚙️ Infrastructure provisioning & configuration  
+- 📈 Performance monitoring & patch management  
+
+I’m passionate about tackling real-world challenges in IT and cybersecurity through practical solutions. Feel free to explore my repositories and see how I approach **security-driven system administration**.
+.
 
 
 ## ⚠️ Vulnerability Management Projects
